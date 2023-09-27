@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krzysztof (Kris) Kaczor</h1>
-<h3 align="center">A motivated and enthusiastic fullstack developer with extensive experience in various fields.</br>
-Passionate about digitisation in all fields - especially in construction.</br>
-Valued for pleasant cooperation. Reliable, hard-working and committed to achieving results.</h3>
+<h3 align="center">A motivated and enthusiastic fullstack developer with extensive experience in various fields.</br>Passionate about digitisation in all fields - especially in construction.</br>Valued for pleasant cooperation. Reliable, hard-working and committed to achieving results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crysis1995&label=Profile%20views&color=0e75b6&style=flat" alt="crysis1995" /> </p>
 
@@ -11,6 +9,7 @@ Valued for pleasant cooperation. Reliable, hard-working and committed to achievi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/krzysztof-kaczor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krzysztof-kaczor" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/crysis95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crysis95" height="30" width="40" /></a>
 </p>
 
